@@ -1,0 +1,16 @@
+{
+    "name": "fconrado/php-graph-tutorial",
+    "description": "Aplicativo de console PHP que usa o Microsoft API do Graph para acessar dados em nome de um usuário.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Conrado",
+            "email": "fabianoconrado@gmail.com"
+        }
+    ],
+    "require": {
+        "microsoft/microsoft-graph": "^1.103",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
