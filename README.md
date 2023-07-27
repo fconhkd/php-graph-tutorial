@@ -40,7 +40,7 @@ Você registrará um novo aplicativo no Azure Active Directory para habilitar a 
 ## Restaurar pacotes com o composer
 Abra sua CLI (interface de linha de comando) no diretório em que você baixou este projeto. Execute o seguinte comando:
 
-``` Bash
+```Bash
 composer install
 ```
 
@@ -48,7 +48,7 @@ composer install
 Nesta seção, você adicionará os detalhes do registro do aplicativo ao projeto.
 
 1. No diretório raiz do seu projeto, adicione o código a seguir.
-``` Bash
+```Bash
 cp local.env .env
 ```
 2. Editar o arquivo `.env`, atualize os valores conforme a tabela a seguir
